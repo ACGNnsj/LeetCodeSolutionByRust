@@ -1,0 +1,121 @@
+[package]
+name = "cn"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.5"
+
+[[bin]]
+name = '4'
+path = "[4]寻找两个正序数组的中位数.rs"
+
+[[bin]]
+name = '9'
+path = '[9]回文数.rs'
+
+[[bin]]
+name = '50'
+path = '[50]Pow(x, n).rs'
+
+[[bin]]
+name = "58"
+path = "[58]最后一个单词的长度.rs"
+
+[[bin]]
+name = "69"
+path = "[69]x 的平方根 .rs"
+
+[[bin]]
+name = "70"
+path = "[70]爬楼梯.rs"
+
+[[bin]]
+name = "77"
+path = "[77]组合.rs"
+
+[[bin]]
+name = "78"
+path = "[78]子集.rs"
+
+[[bin]]
+name = "1096"
+path = "[1096]花括号展开 II.rs"
+
+[[bin]]
+#待解决
+name = "1622"
+path = "[1622]奇妙序列.rs"
+
+[[bin]]
+name = "2069"
+path = "[2069]模拟行走机器人 II.rs"
+
+[[bin]]
+name = "2280"
+path = "[2280]表示一个折线图的最少线段数.rs"
+
+[[bin]]
+name = "2423"
+path = "[2423]删除字符使频率相同.rs"
+
+[[bin]]
+name = "2584"
+path = "[2584]分割数组使乘积互质.rs"
+
+[[bin]]
+name = "2591"
+path = "[2591]将钱分给最多的儿童.rs"
+
+
+[[bin]]
+name = "LCP14"
+path = "[LCP 14]切分数组.rs"
+
+[[bin]]
+name = 'LCP18'
+path = '[LCP 18]早餐组合.rs'
+
+[[bin]]
+name = 'LCP22'
+path = '[LCP 22]黑白方格画.rs'
+
+[[bin]]
+name = 'LCP29'
+path = '[LCP 29]乐团站位.rs'
+
+[[bin]]
+name = 'LCP33'
+path = '[LCP 33]蓄水.rs'
+
+[[bin]]
+name = 'LCP37'
+path = '[LCP 37]最小矩形面积.rs'
+
+[[bin]]
+#待解决
+name = 'LCP60'
+path = '[LCP 60]力扣泡泡龙.rs'
+
+[[bin]]
+name = 'LCP70'
+path = '[LCP 70]沙地治理.rs'
+
+[[bin]]
+name = '10-I'
+path = '[剑指 Offer 10- I]斐波那契数列.rs'
+
+[[bin]]
+name = '08-01'
+path = '[面试题 08.01]三步问题.rs'
+
+[[bin]]
+name = '17-08'
+path = '[面试题 17.08]马戏团人塔.rs'
+
+
+
+
+
